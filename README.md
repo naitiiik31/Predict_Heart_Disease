@@ -8,6 +8,7 @@ Users can input their health data, and the app predicts whether they are at risk
 ## 🚀 Demo
 
 <img width="991" height="770" alt="image" src="https://github.com/user-attachments/assets/4b2e6be3-a74d-4b2b-bf2c-6307a4917ef8" />
+<img width="949" height="723" alt="image" src="https://github.com/user-attachments/assets/9a40be5d-8f94-44a0-9730-6f1a64fb8506" />
 
 
 ---
