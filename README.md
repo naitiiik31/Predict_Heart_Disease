@@ -64,6 +64,3 @@ The model is trained on the Heart Disease dataset, which includes the following 
 - Preprocesses input to match training format.
 - Outputs risk prediction (**High/Low**).
 
----
-
-*Feel free to update this README with additional details, screenshots, or usage instructions as your project evolves!*
