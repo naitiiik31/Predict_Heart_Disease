@@ -7,8 +7,8 @@ Users can input their health data, and the app predicts whether they are at risk
 
 ## 🚀 Demo
 
-App Screenshot  
-*Add a screenshot of your Streamlit app if possible*
+<img width="991" height="770" alt="image" src="https://github.com/user-attachments/assets/4b2e6be3-a74d-4b2b-bf2c-6307a4917ef8" />
+
 
 ---
 
